@@ -9,7 +9,7 @@ body, input {
 }
 
 a {
-  color: #8da7b8;
+  color: #00ff91;
   text-decoration: none;
 }
 
@@ -92,7 +92,7 @@ main {
 
 .actions {
   display: flex;
-  align-items: baseline;
+  align-items: center;
 }
 
 .actions button.user-like {
